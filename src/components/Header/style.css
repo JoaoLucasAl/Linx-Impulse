@@ -1,0 +1,45 @@
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    text-align: center;
+    background-color: #707070;
+    height: 100%;
+    flex-direction: column;
+}
+
+.texts{
+    color: #fff;
+}
+
+.p1{
+    font-size: 20px;
+}
+
+.p2{
+    font-size: 40px;
+    
+}
+
+.p3{
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.btns_div{
+    margin: 30px;
+}
+
+.btn{
+    color: #888888;
+    width: 160px;
+    margin: 20px;
+    padding: 13px;
+    background-color: #fff;
+    border: #707070;
+    border-radius: 4px;
+    box-shadow: #00000029;
+}
