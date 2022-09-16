@@ -13,7 +13,7 @@ const InviteForm = () => {
       <div className="sep1">
         <div className="sep2">
           <span className="linha"></span>
-          <p className="text-selecao">Compatilhe a novidade</p>
+          <p className="text-selecao">Compartilhe a novidade</p>
           <span className="linha"></span>
         </div>
       </div>
